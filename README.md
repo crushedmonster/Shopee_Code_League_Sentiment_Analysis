@@ -2,7 +2,7 @@
 
 Overview: This repository stores the code for the Shopee Code League - Sentiment Analysis Competition hosted on Kaggle.
 
-Compeition Link: https://www.kaggle.com/c/shopee-sentiment-analysis
+Competition Link: https://www.kaggle.com/c/shopee-sentiment-analysis
 
 #### Task:
 In this competition, a multiple product review sentiment classification model needs to be built. There are ~150k product reviews from different categories, including electronics, furniture, home & living products like air-conditioner and fashion products like T-shirts, rings, etc. For data security purposes, the review ids will be desensitized. The evaluation metrics is top-1 accuracy.
